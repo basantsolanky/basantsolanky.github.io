@@ -1,0 +1,39 @@
+[[project]]
+name = "Visualization of Market"
+description = "A react project that shows the prices of NIFTY 50 and NIFTY Bank for the range of dates provided using the golang backend service connected to mysql server."
+links = [
+  { name = "GitHub", url="https://github.com/solankybasant/Visualization-of-Market" }
+]
+
+
+[[project]]
+name = "Task Box"
+description = "A command-line interface application using the Typer framework to streamline and enhance task management for Linux users."
+links = [
+  { name = "GitHub", url="https://github.com/solankybasant/TaskBox" }
+]
+
+[[project]]
+name = "Gesture Control Car"
+description = "Built a gesture-controlled car using OpenCV, enabling real-time hand gesture recognition to drive the vehicle. The system processes camera input to interpret gestures like directional swipes for movement. This project showcases the integration of computer vision and robotics for intuitive control."
+links = [
+  { name = "GitHub", url="https://github.com/solankybasant/OpenCV-Gesture-Controlled-Car" }
+]
+
+[[project]]
+name = "New-York Taxi Fare Prediction"
+description = "New York taxi price prediction uses historical trip data and linear regression to model the relationship between fares and factors like distance, time, and location. The trained model predicts fares for new trips and can be integrated into real-world applications."
+links = [
+  { name = "GitHub", url="https://github.com/solankybasant/New-York-Taxi-Fare-Prediction" }
+]
+
+# [[project]]
+# name = ""
+# description = ""
+# links = [
+#   { name = "GitHub", url="" }
+# ]
+
+
+
+
